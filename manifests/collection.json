@@ -1,0 +1,13 @@
+{
+  "id" : "https://Maria9606.github.io/AnaMendietaCollection/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in Maria9606/AnaMendietaCollection project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Maria9606.github.io/AnaMendietaCollection/manifests/manifest.json",
+    "label" : "ANA MENDIETA: RETURNING TO THE MATERNAL SOURCE\n"
+  } ]
+}
